@@ -1,0 +1,11 @@
+sudo rm -vrf /Applications/1Password*;
+sudo rm -vrf /tmp/1pass.zip;
+sleep 2; 
+sudo rm -vrf /Applications/Slack*;
+sudo rm -vrf /tmp/Slack*;
+sleep 2; 
+sudo rm -vrf /Applications/OpenVPN*;
+sudo rm -vrf /tmp/OpenVPN;
+sleep 2; 
+sudo rm -vrf /Applications/GlobalProtect*;
+sudo rm -vrf /tmp/GlobalProtect*;
